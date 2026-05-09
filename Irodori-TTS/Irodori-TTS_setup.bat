@@ -98,13 +98,8 @@ echo.
 echo [STEP 4] Done.
 echo.
 echo.
-echo  セットアップは無事終了しました。
+echo Setup completed successfully!!!
 echo.
-echo  　■ボイスデザインを行う場合
-echo  　→　run_VoiceDesign.bat
-echo.
-echo  　■作成したボイスを元にテキストから音声を作成する場合
-echo  　→　run_webui.bat
 echo.
 pause
 exit
